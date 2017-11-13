@@ -1,0 +1,17 @@
+/autom4te.cache/
+/autoscan.log
+/config.h
+/config.h.in~
+/config.log
+/config.status
+/configure.scan
+/.deps/
+/testsort
+/testsort.plist/
+/testsort.t2t
+/qss
+/qss.plist/
+/qss.t2t
+/Makefile
+/stamp-h1
+/test*
